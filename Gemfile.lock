@@ -139,6 +139,7 @@ GEM
 
 PLATFORMS
   x86_64-darwin-19
+  x86_64-darwin-20
 
 DEPENDENCIES
   byebug
@@ -147,9 +148,6 @@ DEPENDENCIES
   rails (~> 6.1.3, >= 6.1.3.2)
   sqlite3 (~> 1.4)
   tzinfo-data
-
-RUBY VERSION
-   ruby 2.7.3p183
 
 BUNDLED WITH
    2.2.16
